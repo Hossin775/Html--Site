@@ -1,0 +1,127 @@
+@font-face {
+    font-family: 'Unispace';
+    src: url(../Font/unispace\ rg.ttf) ;
+    
+}
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+header{
+    height: 70px;
+    width: 100%;
+    background-image: linear-gradient(to right,#00BAFF,#00BAFF);
+}
+
+span img{
+    width:70px;
+    height:70px;
+    border-radius: 50%;
+}
+
+nav{
+    margin-left: 35px;
+}
+
+nav a{
+text-decoration: none;
+color: black;
+font-family: Comic Sans MS;
+font-weight: bold;
+line-height: 70px;
+padding: 0 25px;
+display: inline-block;
+}
+
+nav a:hover{
+    color: white;
+}
+.n{
+    color: white;
+}
+
+h1{
+    font-family:unispace;
+    font-weight: bold;
+}
+/*Home*/
+.perInfo{
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.myphoto{
+    position: absolute;
+    right: 10%;
+    width: 400px;
+    height: 400px; 
+    margin-top: 72px;
+    border: 1px solid black;
+}
+.person{
+    margin-left: 50px;     
+    margin-top: 40px; 
+    padding: auto;
+}
+.person td{
+    padding: 20px 5px;
+    margin-left:30px ;
+}
+.personalinfo{
+    display: inline-block;
+    font-family: Comic Sans MS;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+/*Randome Form*/
+
+.geeks{
+    position: absolute;
+    right: 15%;
+    margin-top: 205px; 
+    margin-bottom: 20px;
+}
+.add_course{
+    margin-left: 50px; 
+}
+.exp{
+    display: inline-block;
+    margin-left:75px;
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
+.expinfo{
+    display: inline-block;
+    margin-top:20px ; 
+    margin-bottom: 5px;
+}
+#input-one{
+    display: inline-block;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    height: 30px;
+    width: 230px;
+}
+.radio_1{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.radio_2{
+    margin-left: 75px;
+}
+#area{
+    border-radius: 10px;
+    margin-left: 30px;
+    resize: none;
+}
+.group-button1{
+    display: inline-block;
+    margin-top: 15px; 
+    margin-left: 160px; 
+    margin-bottom: 20px;
+}
+
+/* Links */
