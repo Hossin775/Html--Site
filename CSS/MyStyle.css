@@ -15,6 +15,11 @@ header{
     background-image: linear-gradient(to right,#00BAFF,#00BAFF);
 }
 
+a{
+    color: blueviolet;
+    text-decoration: none;
+}
+
 span img{
     width:70px;
     height:70px;
